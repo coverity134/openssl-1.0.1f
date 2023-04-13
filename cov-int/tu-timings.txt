@@ -1,0 +1,3540 @@
+Translation unit:
+146 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_x931p.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+595 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/s3_pkt.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+131 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_kron.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+312 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/e_cast.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+134 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_prime.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+591 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/s3_srvr.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+454 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x509rset.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+138 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_recp.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+456 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x509name.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+141 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_exp2.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+586 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/s2_clnt.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+458 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x509_ext.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+305 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/e_camellia.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+597 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/s3_cbc.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+303 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/e_idea.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+148 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ecp_smpl.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+460 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x509type.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+150 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ecp_nist.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+579 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/srp/srp_lib.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+462 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x_all.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+464 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x509_trs.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+297 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/evp_enc.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+157 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ec_asn1.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+295 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/encode.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+572 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ts/ts_rsp_print.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+611 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/d1_lib.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+622 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/ssl_rsa.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+332 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/p_dec.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+438 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pem/pem_x509.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+619 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/ssl_sess.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+330 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/p_lib.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+617 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/ssl_err2.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+616 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/ssl_lib.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+614 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/d1_enc.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+107 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/seed/seed_ecb.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+328 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/p_sign.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+440 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pem/pem_oth.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+570 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ts/ts_req_print.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+442 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pem/pem_pkey.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+113 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/modes/cts128.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+444 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x509_def.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+116 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/modes/gcm128.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+321 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/m_dss.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+446 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x509_r2x.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+319 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/m_sha1.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+448 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x509_obj.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+599 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/s23_srvr.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+450 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x509spki.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+126 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_print.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+228 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dso/dso_openssl.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+266 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bio/bss_fd.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+210 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dh/dh_gen.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+491 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_pmaps.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+493 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_ncons.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+215 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dh/dh_depr.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+495 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_pci.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+258 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/buffer/buffer.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+256 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/eng_rsax.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+254 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/eng_dyn.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+225 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dso/dso_err.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+252 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/eng_openssl.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+268 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bio/bss_sock.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+250 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/tb_pkmeth.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+515 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs7/pk7_doit.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+231 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dso/dso_beos.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+233 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/eng_lib.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+248 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/tb_cipher.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+235 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/eng_init.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+503 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_addr.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+237 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/eng_table.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+511 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/txt_db/txt_db.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+246 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/tb_rand.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+505 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/conf/conf_lib.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+551 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ui/ui_util.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+293 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/err/err_all.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+568 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ts/ts_err.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+291 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rand/rand_nw.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+168 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ecp_oct.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+563 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cms/cms_env.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+561 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cms/cms_dd.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+559 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cms/cms_err.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+557 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cms/cms_io.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+177 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rsa/rsa_pk1.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+555 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cms/cms_asn1.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+180 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rsa/rsa_oaep.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+393 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/i2d_pu.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+185 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rsa/rsa_asn1.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+187 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rsa/rsa_ameth.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+191 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dsa/dsa_gen.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+541 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ocsp/ocsp_ht.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+199 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dsa/dsa_depr.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+539 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ocsp/ocsp_asn.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+201 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dsa/dsa_pmeth.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+487 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_purp.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+203 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ecdsa/ecs_lib.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+537 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/comp/c_rle.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+489 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_ocsp.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+18 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/objects/obj_lib.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+660 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/req.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+682 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/s_server.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+361 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_octet.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+58 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/fcrypt.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+658 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/verify.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+417 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/bio_asn1.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+656 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/ccgost/gost_pmeth.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+408 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/tasn_prn.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+661 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/dgst.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+654 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/ccgost/gost_md.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+419 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/asn_mime.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+675 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/dsaparam.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+399 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/t_pkey.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+651 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/ccgost/gost_eng.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+356 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_bitstr.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+649 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/ccgost/gost_crypt.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+421 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/asn1_par.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+690 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/version.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+97 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cast/c_ofb64.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+410 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/f_int.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+45 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/cfb64ede.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+380 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/x_attrib.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+378 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/x_sig.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+688 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/s_socket.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+367 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_i2d_fp.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+684 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/speed.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+647 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/ccgost/gost_ameth.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+683 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/s_client.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+50 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/ofb64enc.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+364 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_set.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+401 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/t_bitst.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+673 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/rsautl.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+663 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/dhparam.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+692 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/ciphers.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+40 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/set_key.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+633 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/e_atalla.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+428 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/p5_pbe.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+702 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/rand.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+345 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/p5_crpt.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+389 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/nsseq.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+704 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/ocsp.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+343 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/evp_pkey.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+430 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/p8_pkey.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+705 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/prime.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+16 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/objects/o_names.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+341 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/evp_lib.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+631 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/e_4758cca.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+339 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/c_allc.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+707 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/srp.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+432 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pem/pem_sign.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+434 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pem/pem_info.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+436 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pem/pem_all.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+701 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/cms.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+347 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/e_old.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+395 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/t_req.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+699 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/spkac.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+77 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rc2/rc2_cbc.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+677 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/ecparam.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+697 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/pkeyparam.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+33 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/hmac/hmac.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+397 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/t_x509a.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+376 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/x_val.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+354 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/e_rc4_hmac_md5.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+71 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/aes/aes_ige.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+411 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/f_string.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+481 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_pku.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+482 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_int.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+483 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_enum.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+404 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/tasn_enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+484 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_sxnet.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+486 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_crld.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+485 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_cpols.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+499 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/pcy_map.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+506 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/conf/conf_api.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+542 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ocsp/ocsp_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+504 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/conf/conf_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+394 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/i2d_pr.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+502 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_asid.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+396 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/t_x509.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+501 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/pcy_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+398 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/t_crl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+500 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/pcy_tree.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+488 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_info.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+498 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/pcy_data.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+497 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/pcy_node.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+496 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/pcy_cache.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+400 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/t_spki.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+494 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_pcia.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+492 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_pcons.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+402 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/tasn_new.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+490 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_akeya.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+403 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/tasn_fre.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+449 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x509_req.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+459 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x509_att.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+418 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/bio_ndef.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+420 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/asn1_gen.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+457 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x509_v3.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+455 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x509_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+453 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x509cset.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+452 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x509_set.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+422 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/asn1_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+451 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x509_vfy.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+423 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/asn1_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+424 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_bytes.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+425 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_strnid.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+461 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x509_lu.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+426 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/evp_asn1.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+447 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x509_cmp.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+427 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/asn_pack.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+445 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x509_d2.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+429 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/p5_pbev2.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+443 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pem/pvkfmt.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+441 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pem/pem_pk8.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+431 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/asn_moid.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+439 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pem/pem_xaux.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+433 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pem/pem_seal.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+435 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pem/pem_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+437 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pem/pem_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+471 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_extku.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+480 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_akey.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+479 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_skey.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+478 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_alt.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+406 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/tasn_utl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+477 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_genn.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+407 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/tasn_typ.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+476 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+475 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_utl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+474 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_prn.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+473 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+472 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_ia5.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+409 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/ameth_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+405 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/tasn_dec.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+470 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_conf.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+469 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_bitst.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+468 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509v3/v3_bcons.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+412 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/n_pkey.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+467 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x509_vpm.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+413 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/f_enum.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+414 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/x_pkey.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+466 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/by_dir.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+465 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/by_file.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+415 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_bool.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+416 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/x_exten.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+463 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/x509/x509_txt.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+638 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/e_sureware.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+627 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/ssl_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+628 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/kssl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+629 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/tls_srp.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+630 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/t1_reneg.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+632 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/e_aep.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+634 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/e_cswift.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+635 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/e_gmp.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+636 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/e_chil.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+637 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/e_nuron.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+626 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/bio_ssl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+639 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/e_ubsec.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+640 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/e_padlock.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+641 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/e_capi.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+642 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/ccgost/e_gost_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+643 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/ccgost/gost2001_keyx.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+644 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/ccgost/gost2001.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+645 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/ccgost/gost89.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+646 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/ccgost/gost94_keyx.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+612 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/d1_pkt.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+602 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/s23_pkt.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+603 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/t1_meth.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+604 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/t1_srvr.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+605 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/t1_clnt.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+606 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/t1_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+607 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/t1_enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+608 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/d1_meth.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+609 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/d1_srvr.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+610 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/d1_clnt.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+648 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/ccgost/gost_asn1.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+613 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/d1_both.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+615 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/d1_srtp.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+618 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/ssl_cert.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+620 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/ssl_ciph.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+621 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/ssl_stat.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+623 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/ssl_asn1.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+624 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/ssl_txt.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+625 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/ssl_algs.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+693 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/nseq.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+678 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/x509.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+679 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/genrsa.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+680 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/gendsa.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+681 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/genpkey.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+685 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/s_time.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+686 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/apps.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+687 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/s_cb.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+689 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/app_rand.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+691 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/sess_id.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+676 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/ec.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+694 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/pkcs12.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+695 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/pkcs8.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+696 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/pkey.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+698 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/pkeyutl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+700 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/smime.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+703 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/engine.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+706 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/ts.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+708 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/openssl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+665 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/passwd.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+650 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/ccgost/gost_ctl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+652 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/ccgost/gosthash.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+653 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/ccgost/gost_keywrap.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+655 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/ccgost/gost_params.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+657 -> /home/raoxue/Downloads/openssl-1.0.1f/engines/ccgost/gost_sign.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+659 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/asn1pars.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+662 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/dh.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+664 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+601 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/s23_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+666 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/gendh.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+667 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/errstr.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+668 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/ca.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+669 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/pkcs7.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+670 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/crl2p7.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+671 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/crl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+672 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/rsa.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+674 -> /home/raoxue/Downloads/openssl-1.0.1f/apps/dsa.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+538 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/comp/c_zlib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+528 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs12/p12_kiss.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+529 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs12/p12_mutl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+530 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs12/p12_utl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+531 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs12/p12_npas.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+532 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs12/pk12err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+533 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs12/p12_p8d.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+534 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs12/p12_p8e.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+535 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/comp/comp_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+536 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/comp/comp_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+527 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs12/p12_key.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+540 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ocsp/ocsp_ext.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+355 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_object.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+543 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ocsp/ocsp_cl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+544 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ocsp/ocsp_srv.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+545 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ocsp/ocsp_prn.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+546 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ocsp/ocsp_vfy.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+547 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ocsp/ocsp_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+548 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ui/ui_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+518 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs7/pk7_mime.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+508 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/conf/conf_mod.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+509 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/conf/conf_mall.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+510 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/conf/conf_sap.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+512 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs7/pk7_asn1.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+513 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs7/pk7_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+514 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs7/pkcs7err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+516 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs7/pk7_smime.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+517 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs7/pk7_attr.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+549 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ui/ui_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+519 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs7/bio_pk7.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+520 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs12/p12_add.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+521 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs12/p12_asn.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+522 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs12/p12_attr.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+523 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs12/p12_crpt.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+524 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs12/p12_crt.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+525 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs12/p12_decr.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+526 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pkcs12/p12_init.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+588 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/s2_enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+577 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ts/ts_conf.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+578 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ts/ts_asn1.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+580 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/srp/srp_vfy.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+581 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cmac/cmac.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+582 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cmac/cm_ameth.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+583 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cmac/cm_pmeth.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+584 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/s2_meth.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+585 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/s2_srvr.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+587 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/s2_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+576 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ts/ts_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+589 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/s2_pkt.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+590 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/s3_meth.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+592 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/s3_clnt.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+593 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/s3_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+594 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/s3_enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+596 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/s3_both.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+598 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/s23_meth.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+600 -> /home/raoxue/Downloads/openssl-1.0.1f/ssl/s23_clnt.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+564 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cms/cms_enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+550 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ui/ui_openssl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+552 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ui/ui_compat.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+553 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/krb5/krb5_asn.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+554 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cms/cms_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+556 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cms/cms_att.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+558 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cms/cms_smime.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+560 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cms/cms_sd.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+562 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cms/cms_cd.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+507 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/conf/conf_def.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+565 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cms/cms_ess.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+566 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cms/cms_pwri.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+567 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/pqueue/pqueue.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+569 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ts/ts_req_utils.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+571 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ts/ts_rsp_utils.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+573 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ts/ts_rsp_sign.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+574 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ts/ts_rsp_verify.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+575 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ts/ts_verify_ctx.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+123 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_ctx.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+112 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/modes/ctr128.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+114 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/modes/cfb128.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+115 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/modes/ofb128.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+117 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/modes/ccm128.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+118 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/modes/xts128.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+119 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_add.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+120 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_div.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+121 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_exp.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+122 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+111 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/modes/cbc128.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+124 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_mul.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+125 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_mod.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+127 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_rand.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+128 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_shift.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+129 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_word.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+130 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_blind.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+132 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_sqrt.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+133 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_gcd.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+135 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+100 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/camellia/cmll_cfb.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+90 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bf/bf_enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+91 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bf/bf_cfb64.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+92 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bf/bf_ofb64.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+93 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cast/c_skey.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+94 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cast/c_ecb.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+95 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cast/c_enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+96 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cast/c_cfb64.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+98 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/camellia/cmll_ecb.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+99 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/camellia/cmll_ofb.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+136 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_sqr.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+101 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/camellia/cmll_ctr.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+102 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/camellia/cmll_utl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+103 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/camellia/camellia.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+104 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/camellia/cmll_misc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+105 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/camellia/cmll_cbc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+106 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/seed/seed.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+108 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/seed/seed_cbc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+109 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/seed/seed_cfb.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+110 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/seed/seed_ofb.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+173 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rsa/rsa_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+163 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/eck_prn.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+164 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ecp_nistp224.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+165 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ecp_nistp256.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+166 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ecp_nistp521.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+167 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ecp_nistputil.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+169 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ec2_oct.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+170 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ec_oct.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+171 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rsa/rsa_eay.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+172 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rsa/rsa_gen.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+162 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ec_pmeth.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+174 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rsa/rsa_sign.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+175 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rsa/rsa_saos.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+176 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rsa/rsa_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+178 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rsa/rsa_ssl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+179 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rsa/rsa_none.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+181 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rsa/rsa_chk.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+182 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rsa/rsa_null.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+183 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rsa/rsa_pss.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+184 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rsa/rsa_x931.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+151 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ec_cvt.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+137 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_asm.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+139 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_mont.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+140 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_mpi.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+142 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_gf2m.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+143 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_nist.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+144 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_depr.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+145 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bn/bn_const.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+147 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ec_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+149 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ecp_mont.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+89 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bf/bf_ecb.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+152 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ec_mult.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+153 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ec_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+154 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ec_curve.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+155 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ec_check.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+156 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ec_print.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+158 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ec_key.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+159 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ec2_smpl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+160 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ec2_mult.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+161 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ec/ec_ameth.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+34 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/hmac/hm_ameth.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+24 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/md5/md5_one.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+25 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/sha/sha_dgst.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+26 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/sha/sha1dgst.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+27 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/sha/sha_one.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+28 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/sha/sha1_one.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+29 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/sha/sha256.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+30 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/sha/sha512.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+31 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/mdc2/mdc2dgst.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+32 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/mdc2/mdc2_one.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+23 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/md5/md5_dgst.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+35 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/hmac/hm_pmeth.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+36 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ripemd/rmd_dgst.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+37 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ripemd/rmd_one.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+38 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/whrlpool/wp_dgst.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+39 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/whrlpool/wp_block.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+41 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/ecb_enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+42 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/cbc_enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+43 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/ecb3_enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+44 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/cfb64enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+11 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/o_dir.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+2 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/mem.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+3 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/mem_dbg.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+4 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cversion.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+5 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ex_data.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+6 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cpt_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+7 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ebcdic.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+8 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/uid.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+9 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/o_time.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+10 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/o_str.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+46 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/cfb_enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+12 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/o_fips.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+13 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/o_init.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+14 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/fips_ers.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+15 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/mem_clr.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+17 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/objects/obj_dat.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+19 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/objects/obj_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+20 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/objects/obj_xref.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+21 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/md4/md4_dgst.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+22 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/md4/md4_one.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+79 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rc2/rc2ofb64.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+68 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/aes/aes_cfb.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+69 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/aes/aes_ofb.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+70 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/aes/aes_ctr.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+72 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/aes/aes_wrap.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+73 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/aes/aes_core.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+74 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/aes/aes_cbc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+75 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rc2/rc2_ecb.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+76 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rc2/rc2_skey.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+78 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rc2/rc2cfb64.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+67 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/aes/aes_ecb.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+80 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rc4/rc4_enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+81 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rc4/rc4_skey.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+82 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rc4/rc4_utl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+83 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/idea/i_cbc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+84 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/idea/i_cfb64.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+85 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/idea/i_ofb64.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+86 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/idea/i_ecb.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+87 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/idea/i_skey.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+88 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bf/bf_skey.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+57 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/fcrypt_b.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+47 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/ofb64ede.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+48 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/enc_read.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+49 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/enc_writ.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+51 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/ofb_enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+52 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/str2key.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+53 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/pcbc_enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+54 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/qud_cksm.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+55 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/rand_key.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+56 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/des_enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+186 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rsa/rsa_depr.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+59 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/xcbc_enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+60 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/rpc_enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+61 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/cbc_cksm.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+62 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/ede_cbcm_enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+63 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/des_old.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+64 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/des_old2.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+65 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/des/read2pwd.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+66 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/aes/aes_misc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+326 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/p_open.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+315 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/m_md2.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+316 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/m_md4.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+317 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/m_md5.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+318 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/m_sha.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+320 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/m_wp.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+322 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/m_dss1.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+323 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/m_mdc2.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+324 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/m_ripemd.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+325 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/m_ecdsa.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+314 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/m_null.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+327 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/p_seal.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+329 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/p_verify.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+331 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/p_enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+333 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/bio_md.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+334 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/bio_b64.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+335 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/bio_enc.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+336 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/evp_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+337 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/e_null.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+338 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/c_all.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+301 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/e_des.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+288 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rand/rand_win.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+289 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rand/rand_unix.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+290 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rand/rand_os2.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+292 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/err/err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+294 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/err/err_prn.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+296 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/digest.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+298 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/evp_key.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+299 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/evp_acnf.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+300 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/evp_cnf.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+340 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/c_alld.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+302 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/e_bf.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+304 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/e_des3.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+306 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/e_rc4.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+307 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/e_aes.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+308 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/names.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+309 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/e_seed.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+310 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/e_xcbc_d.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+311 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/e_rc2.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+313 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/e_rc5.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+381 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/x_bignum.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+369 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_utf8.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+370 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_sign.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+371 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_digest.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+372 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_verify.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+373 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_mbstr.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+374 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_strex.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+375 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/x_algor.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+377 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/x_pubkey.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+379 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/x_req.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+368 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_enum.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+382 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/x_long.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+383 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/x_name.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+384 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/x_x509.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+385 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/x_x509a.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+386 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/x_crl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+387 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/x_info.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+388 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/x_spki.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+390 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/x_nx509.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+391 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/d2i_pu.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+1 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/cryptlib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 12
+cov-build invocation time (seconds): 340
+Translation unit:
+342 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/bio_ok.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+344 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/evp_pbe.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+346 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/p5_crpt2.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+348 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/pmeth_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+349 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/pmeth_fn.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+350 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/pmeth_gn.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+351 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/m_sigver.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+352 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/evp_fips.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+353 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/evp/e_aes_cbc_hmac_sha1.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+287 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rand/rand_egd.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+357 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_utctm.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+358 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_gentm.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+359 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_time.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+360 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_int.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+362 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_print.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+363 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_type.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+365 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_dup.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+366 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/a_d2i_fp.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+223 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dso/dso_dl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+213 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dh/dh_check.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+214 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dh/dh_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+216 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dh/dh_ameth.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+217 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dh/dh_pmeth.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+218 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dh/dh_prn.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+219 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ecdh/ech_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+220 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ecdh/ech_ossl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+221 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ecdh/ech_key.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+222 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ecdh/ech_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+212 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dh/dh_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+224 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dso/dso_dlfcn.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+226 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dso/dso_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+227 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dso/dso_null.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+229 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dso/dso_win32.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+230 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dso/dso_vms.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+232 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/eng_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+234 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/eng_list.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+236 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/eng_ctrl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+238 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/eng_pkey.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+198 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dsa/dsa_ossl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+188 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rsa/rsa_prn.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+189 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rsa/rsa_pmeth.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+190 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rsa/rsa_crpt.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+192 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dsa/dsa_key.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+193 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dsa/dsa_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+194 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dsa/dsa_asn1.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+195 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dsa/dsa_vrf.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+196 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dsa/dsa_sign.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+197 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dsa/dsa_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+239 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/eng_fat.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+200 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dsa/dsa_ameth.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+202 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dsa/dsa_prn.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+204 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ecdsa/ecs_asn1.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+205 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ecdsa/ecs_ossl.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+206 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ecdsa/ecs_sign.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+207 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ecdsa/ecs_vrf.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+208 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/ecdsa/ecs_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+209 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dh/dh_asn1.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+211 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/dh/dh_key.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+277 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bio/bss_log.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+267 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bio/bss_file.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+269 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bio/bss_conn.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+270 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bio/bf_null.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+271 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bio/bf_buff.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+272 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bio/b_print.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+273 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bio/b_dump.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+274 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bio/b_sock.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+275 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bio/bss_acpt.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+276 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bio/bf_nbio.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+265 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bio/bss_null.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+278 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bio/bss_bio.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+279 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bio/bss_dgram.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+280 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/stack/stack.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+281 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/lhash/lhash.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+282 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/lhash/lh_stats.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+283 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rand/md_rand.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+284 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rand/randfile.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+285 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rand/rand_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+286 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/rand/rand_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+253 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/eng_cnf.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+240 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/eng_all.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+241 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/tb_rsa.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+242 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/tb_dsa.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+243 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/tb_ecdsa.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+244 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/tb_dh.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+245 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/tb_ecdh.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+247 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/tb_store.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+249 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/tb_digest.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+251 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/tb_asnmth.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+392 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/asn1/d2i_pr.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+255 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/eng_cryptodev.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+257 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/engine/eng_rdrand.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+259 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/buffer/buf_str.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+260 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/buffer/buf_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+261 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bio/bio_lib.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 1
+cov-build invocation time (seconds): 340
+Translation unit:
+262 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bio/bio_cb.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+263 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bio/bio_err.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340
+Translation unit:
+264 -> /home/raoxue/Downloads/openssl-1.0.1f/crypto/bio/bss_mem.c
+cov-emit invocation time (seconds): 0
+cov-translate invocation time (seconds): 0
+cov-build invocation time (seconds): 340

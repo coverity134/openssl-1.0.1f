@@ -1,0 +1,7 @@
+Native Compiler invocation: /usr/bin/cc -I. -I.. -I../include -O -c -o cryptlib.o cryptlib.c
+Working directory: /home/raoxue/Downloads/openssl-1.0.1f/crypto
+Comptype: gcc
+* Configuring /usr/bin/cc as a C compiler
+* Configuring /usr/bin/cc as a C++ compiler
+* Configuring /usr/bin/cc as a C compiler
+* Configuring /usr/bin/ld as a C++ compiler
